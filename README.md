@@ -1,4 +1,4 @@
-### BOAS VINDAS AO MEU PERFIL:🤍
+hum### BOAS VINDAS AO MEU PERFIL:🤍
 
 Meu nome é Yasmin Cristine
 - estou estudando no alura
@@ -9,4 +9,5 @@ Meu nome é Yasmin Cristine
 
 00001129310772sp@al.educacao.sp.gov.br
 
-https://tenor.com/pt-BR/view/cat-gif-14345055558441530836
+
+![image](https://github.com/user-attachments/assets/f97f71a9-ca06-4fa0-bdbc-279b2276e1e2)
