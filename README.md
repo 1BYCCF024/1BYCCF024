@@ -1,4 +1,4 @@
-hum### BOAS VINDAS AO MEU PERFIL:🤍
+### BOAS VINDAS AO MEU PERFIL:🤍
 
 Meu nome é Yasmin Cristine
 - estou estudando no alura
